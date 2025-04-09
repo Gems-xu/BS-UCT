@@ -1,0 +1,6 @@
+./__pycache__/
+
+./algorithm/__pycache__/
+
+./mdels/__pycache__/
+./mdels/try_resnet_240503.py
